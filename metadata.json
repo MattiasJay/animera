@@ -1,0 +1,5 @@
+{
+  "name": "Animera min resa",
+  "description": "A travel animation tool using OpenStreetMap and Gemini. Enter a start and end destination to generate a route and watch a vehicle animate between them, accompanied by AI-generated travel trivia.",
+  "requestFramePermissions": []
+}
